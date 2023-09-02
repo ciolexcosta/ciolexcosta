@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciolexcosta
 - 👀 I’m interested in Programming, Cloud and IA
-- 🌱 I’m currently learning Python, AWS and Machine Learning.
+- 🌱 I’m currently learning Python, AWS and Data Analysis.
 - 📫 How to reach me? https://www.linkedin.com/in/ciolex-costa/
 
 <!---
